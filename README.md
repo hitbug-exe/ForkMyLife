@@ -19,7 +19,7 @@ ForkMyLife is a command-line utility built in Python that allows you to fork any
 
 2. Install the required packages using pip:
 
-  `pip install -r requirements.txt`
+   `pip install -r requirements.txt`
 
 3. Install the vercel CLI:
 
